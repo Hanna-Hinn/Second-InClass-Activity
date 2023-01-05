@@ -2,4 +2,4 @@
 This is an inClass Activity for Android course.
 
 
-The Code is in the Master branch
+***The Code is in the Master branch
